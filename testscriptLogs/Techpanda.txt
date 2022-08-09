@@ -1,0 +1,8 @@
+[INFO ] [2022-08-07 17:35:55,905] Login_01-Step 01: Click to Create new Account button
+[INFO ] [2022-08-07 17:35:56,551] Login_01-Step 02: email address textbox displayed
+[INFO ] [2022-08-07 17:35:57,342] Login_02-Step 01: Enter data into email address textbox
+[INFO ] [2022-08-07 17:36:00,555] Login_02-Step 02: Confirm Email address textbox displayed
+[INFO ] [2022-08-07 17:36:00,649] Login_02-Step 03: Enter data into email address textbox with empty
+[INFO ] [2022-08-07 17:36:03,793] Login_02-Step 04:Confirm Email address textbox isn't displayed 
+[INFO ] [2022-08-07 17:36:03,860] Login_03-Step 01: Click close icon button
+[INFO ] [2022-08-07 17:36:07,149] Login_03-Step 02: Confirm Email address textbox Undisplayed
